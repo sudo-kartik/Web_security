@@ -44,3 +44,7 @@ There are several ways by which SRH Student Mood Board can close the information
     • Configure the web server to turn down any exceptions which may arise.
     • Set the configuration of the web server in such a manner by which it disallow directory listing.
 
+
+## Reference
+
+- https://www.netsparker.com/blog/web-security/information-disclosure-issues-attacks/
