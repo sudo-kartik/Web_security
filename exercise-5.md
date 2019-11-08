@@ -46,4 +46,9 @@ Diagrammatically Representation of the pre-flight request
     • Now the server will respond with Access-Control-=Allow-Methods are says that POST and GET are viable  methods to query the resource.
     • The server also sends Access-Control-Allow-Headers with a value of X- PINGOTHER, Content-Type, Confirming that these are permitted headers to be used with the actual request.
     • Finally Access-Control-Max-Age gives the value in seconds for how long the response to preflight request can be cached for without sending another preflight request.
-    
+  
+
+## Reference
+
+- https://cheatsheetseries.owasp.org/cheatsheetsCross_Site_Scripting_Prevention_Cheat_Sheet.html
+- https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS#Preflighted_requests
